@@ -33,13 +33,6 @@ Welcome to my GitHub profile! I'm a recent graduate actively looking for opportu
 
 ---
 
-## 📈 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mathan-2002&show_icons=true&theme=radical)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mathan-2002&layout=compact&theme=radical)  
-
----
-
 ## 📫 Connect With Me  
 - [Naukri](https://www.naukri.com/mnjuser/profile) 
 - [Email](mathankumarg2002@gmail.com)  
