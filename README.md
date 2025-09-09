@@ -34,7 +34,7 @@ Welcome to my GitHub profile! I'm a recent graduate actively looking for opportu
 ---
 
 ## 📫 Connect With Me  
--[LinkedIn Profile](www.linkedin.com/in/mathan-kumar) 
+- [LinkedIn Profile](www.linkedin.com/in/mathan-kumar) 
 - [Naukri](https://www.naukri.com/mnjuser/profile) 
 - [Email](mathankumarg2002@gmail.com)  
 
