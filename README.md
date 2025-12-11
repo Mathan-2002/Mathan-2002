@@ -60,7 +60,3 @@ Welcome to my GitHub profile! I'm a recent graduate actively looking for opportu
 
 ✨ *Thanks for visiting my profile! Feel free to check out my projects or connect with me.*  
 
-
-
-✨ *Thanks for visiting my profile! Feel free to check out my projects or connect with me.*  
-
