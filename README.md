@@ -43,7 +43,7 @@ Welcome to my GitHub profile! I'm a recent graduate actively looking for opportu
 - Discovered customer buying patterns and key business drivers.  
 - **Tools:** Microsoft Excel  
 
-### 🔹 Customer Churn Analysis using Power BI  
+### 🔹 [Customer Churn Analysis using Power BI](https://github.com/Mathan-2002/Customer-Churn-Analysis-using-Power-BI)  
 - Built an **interactive Power BI dashboard** to analyze telecom customer churn.  
 - Identified churn trends by customer tenure, contract type, payment method, and internet service.  
 - Highlighted key demographic factors influencing churn and delivered actionable insights.  
