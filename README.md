@@ -37,7 +37,7 @@ Welcome to my GitHub profile! I'm a recent graduate actively looking for opportu
 - Identified key sales trends and customer buying behavior.  
 - **Tools:** MySQL  
 
-### 🔹 Sales Data Analysis using Microsoft Excel  
+### 🔹 [Sales Data Analysis using Microsoft Excel](https://github.com/Mathan-2002/Sales-Analysis-Excel)  
 - Analyzed sales performance using pivot tables, charts, and dashboards.  
 - Identified revenue trends, top-performing products, city-wise sales, and peak sales hours.  
 - Discovered customer buying patterns and key business drivers.  
